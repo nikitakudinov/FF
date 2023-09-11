@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "498059487775",
+    "project_id": "playground-97ada",
+    "storage_bucket": "playground-97ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498059487775:android:78afe09b9a937a690b832a",
+        "android_client_info": {
+          "package_name": "com.mycompany.countries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJKEHeKJa6TA6nZyYKgwnixiKnqOiBgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498059487775-27ajjsnn9hr759s4mpe8us9s3hmlia6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tacticoolplayground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498059487775:android:d1b59b389df84aad0b832a",
+        "android_client_info": {
+          "package_name": "com.mycompany.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJKEHeKJa6TA6nZyYKgwnixiKnqOiBgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498059487775-27ajjsnn9hr759s4mpe8us9s3hmlia6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tacticoolplayground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498059487775:android:0510eceb5a4d2e770b832a",
+        "android_client_info": {
+          "package_name": "com.mycompany.tacticoolplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJKEHeKJa6TA6nZyYKgwnixiKnqOiBgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498059487775-8pho1eedsgcjn8aaska9p4bmm1ja2o8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498059487775-27ajjsnn9hr759s4mpe8us9s3hmlia6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tacticoolplayground"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
